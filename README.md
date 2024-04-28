@@ -4,5 +4,3 @@
 * HTML5
 * CSS3
 
-![Uploading image.png…]()
-
