@@ -2,6 +2,6 @@
 ## HTML + CSS -> Project
 ### Technologies used
 * HTML
-* CSS3
+* CSS
   
 ![alt text](https://github.com/Aleksandra-Stachniak/Login-Form/blob/main/login_form.png)
